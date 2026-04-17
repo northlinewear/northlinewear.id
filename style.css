@@ -57,3 +57,9 @@ p {
 .btn:hover {
     opacity: 0.8;
 }
+
+.logo {
+    width: 120px;
+    margin-bottom: 20px;
+    filter: drop-shadow(0 0 20px rgba(253, 251, 251, 0.2));
+}
